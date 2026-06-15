@@ -1,5 +1,5 @@
 ## My Portfolio
 
-MSc student in Social Data Science at University College Dublin, with a background in psychology and a self-directed pivot into data analytics and AI.
+I'm currently studying Social Data Science at University College Dublin after completing a Bachelor's degree in Psychology.
 
-This repository brings together academic and personal projects across data analysis, social research, and visualization — combining quantitative methods with a focus on human behaviour and social dynamics.
+This portfolio brings together projects completed during my studies, as well as personal projects. Through these projects, I explore data analysis, statistics, data visualisation and computational social science while continuing to develop my skills in the field.
